@@ -1,0 +1,10 @@
+# Requirements for Python Introduction Course
+# These are the standard library modules used in the course
+# No additional installations needed for basic Python functionality
+
+# For running Jupyter notebooks:
+jupyter>=1.0.0
+notebook>=6.0.0
+
+# Optional: For enhanced notebook experience
+ipywidgets>=7.0.0
